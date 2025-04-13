@@ -20,19 +20,17 @@ No more Googling dependencies or fixing broken SDKs. Just run the script and go!
 
 ### 💡 How to use it
 
-1. Save it as:
+1. download bash
 ```bash
-nano mastercode_android_studio_installer.sh
+git clone https://github.com/MasterCode112/mastercode_android_studio_installer.git
 ```
 
-2. Paste the script, then save and exit (`Ctrl+O`, `Enter`, `Ctrl+X`)
-
-3. Make it executable:
+2. Make it executable:
 ```bash
 chmod +x mastercode_android_studio_installer.sh
 ```
 
-4. Run it:
+3. Run it:
 ```bash
 ./mastercode_android_studio_installer.sh
 ```
